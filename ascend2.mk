@@ -101,10 +101,6 @@ PRODUCT_COPY_FILES += \
 
 ##Added Files for bootsound and themes
 PRODUCT_COPY_FILES += \
-    device/huawei/ascend2/include/app/RoverCyan.apk:system/app/RoverCyan.apk \
-    device/huawei/ascend2/include/app/com.mike.theme.hc3d3d-1.apk:system/app/com.mike.theme.hc3d3d-1.apk \
-    device/huawei/ascend2/include/app/DarkADBWireless-v1.apk:system/app/DarkADBWireless-v1.apk \
-    device/huawei/ascend2/include/app/com.elgubbo.a2sdGUI-1.apk:system/app/com.elgubbo.a2sdGUI-1.apk \
     device/huawei/ascend2/include/bin/bootsound:system/bin/bootsound \
     device/huawei/ascend2/include/media/audio/ui/android_audio.mp3:system/media/audio/ui/android_audio.mp3 \
     device/huawei/ascend2/include/media/bootanimation.zip:system/media/bootanimation.zip \
