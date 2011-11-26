@@ -160,6 +160,7 @@ PRODUCT_PROPERTY_OVERRIDES := \
     ro.cdma.home.operator.alpha=中国电信 \
     ro.cdma.home.operator.numeric=46003 \
     ro.config.cdma_subscription=1 \
+    ril.subscription.types=RUIM,NV \
     ro.cdma.voicemail.number=mine \
     ro.com.google.locationfeatures=1 \
 
